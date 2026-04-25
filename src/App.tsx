@@ -424,7 +424,7 @@ const Skills = () => {
               <div className="glass h-full p-8 rounded-[2.5rem] overflow-hidden group hover:border-primary/50 hover:shadow-2xl hover:shadow-primary/5 hover:scale-[1.02] transition-all duration-500 flex flex-col">
                 <div className={`w-14 h-14 rounded-2xl bg-gradient-to-br ${cat.color} p-0.5 mb-8 group-hover:scale-110 transition-transform duration-500 shadow-lg shadow-primary/10`}>
                   <div className="w-full h-full bg-white dark:bg-slate-950 rounded-[calc(1rem-2px)] flex items-center justify-center text-slate-800 dark:text-white">
-                    {React.cloneElement(cat.icon as React.ReactElement, { className: "w-6 h-6" })}
+                    {React.cloneElement(cat.icon, { className: "w-6 h-6" })}
                   </div>
                 </div>
 
