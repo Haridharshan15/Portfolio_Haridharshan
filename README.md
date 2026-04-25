@@ -1,3 +1,4 @@
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -6,7 +7,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/fbcf02f4-09e2-4220-a55b-007dc61590ae
+View your app in AI Studio: https://ai.studio/apps/
 
 ## Run Locally
 
@@ -18,3 +19,7 @@ View your app in AI Studio: https://ai.studio/apps/fbcf02f4-09e2-4220-a55b-007dc
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+# Portfolio_Haridharshan
+Motivated Artificial Intelligence and Data Science graduate with a strong foundation in Python, machine learning, and web development. Passionate about exploring emerging technologies in AI, particularly in NLP and computer vision.
+
